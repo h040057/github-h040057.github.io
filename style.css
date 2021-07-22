@@ -1,0 +1,74 @@
+.container {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header, blockquote {
+  font-size: 46px;
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+}
+
+blockquote {
+  background-color:  #333;
+  color: white;
+  padding: 35px;
+  margin: 30px -40px;
+  line-height: 150%;
+  
+  position: relative;
+}
+
+main {
+  font-size: 18px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+  margin: -200px 290px;
+  line-height: 150%;
+}
+
+img {
+  width: 100%;
+}
+
+.felirat {
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+  margin: -20px 0 10px 0;
+  font-style: italic;
+  font-weight: bold;
+}
+
+#anakin {
+  position: relative;
+  top: -250px;
+  left: 290px;
+  line-height: 80%;
+}
+
+ul {
+  list-style-type: square;
+  font-size: 15px;
+}
+.nagybetu {
+  text-transform: uppercase;
+  padding: 40px 0;
+}
+
+.item {
+  text-decoration: none;
+  color: white;
+  position: absolute;
+  font-size: 120px;
+  top: 12px;
+  left: 0;
+}
+
+.vonal {
+  background-color: #222;
+  list-style-type: none;
+  width: 115%;
+  height: 4px;
+  position: relative;
+  left: -60px;
+  margin: 50px 0 40px 0;
